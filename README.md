@@ -59,19 +59,19 @@ flowchart LR
 
 ### Hero Capture
 
-![Hero capture](./screenshots/01-hero.svg)
+![Hero capture](https://raw.githubusercontent.com/mizcausevic-dev/conversion-funnel-intelligence-hub/main/screenshots/01-hero.svg)
 
 ### Funnel Map
 
-![Funnel map](./screenshots/02-funnel.svg)
+![Funnel map](https://raw.githubusercontent.com/mizcausevic-dev/conversion-funnel-intelligence-hub/main/screenshots/02-funnel.svg)
 
 ### Segment Stories
 
-![Segment stories](./screenshots/03-segments.svg)
+![Segment stories](https://raw.githubusercontent.com/mizcausevic-dev/conversion-funnel-intelligence-hub/main/screenshots/03-segments.svg)
 
 ### Action Queue
 
-![Action queue](./screenshots/04-queue.svg)
+![Action queue](https://raw.githubusercontent.com/mizcausevic-dev/conversion-funnel-intelligence-hub/main/screenshots/04-queue.svg)
 
 ## Local Run
 
