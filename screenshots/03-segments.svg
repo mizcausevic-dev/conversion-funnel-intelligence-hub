@@ -3,10 +3,27 @@
   <rect x="72" y="72" width="1456" height="756" rx="30" fill="#121726" stroke="#273248"/>
   <text x="110" y="132" fill="#A5B4FC" font-family="Segoe UI, Arial" font-size="20">SEGMENT STORIES</text>
   <text x="110" y="184" fill="#FFFFFF" font-family="Georgia, serif" font-size="44">Different growth surfaces, different friction patterns</text>
-  <rect x="110" y="244" width="430" height="500" rx="28" fill="#171C2C"/>
-  <rect x="585" y="244" width="430" height="500" rx="28" fill="#171C2C"/>
-  <rect x="1060" y="244" width="430" height="500" rx="28" fill="#171C2C"/>
-  <text x="146" y="294" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="28" font-weight="700">Enterprise paid search</text>
-  <text x="621" y="294" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="28" font-weight="700">Partner referrals</text>
-  <text x="1096" y="294" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="28" font-weight="700">Lifecycle nurture</text>
+
+  <g font-family="Segoe UI, Arial">
+    <rect x="110" y="244" width="430" height="500" rx="28" fill="#171C2C"/>
+    <text x="146" y="294" fill="#FFFFFF" font-size="28" font-weight="700">Enterprise paid search</text>
+    <text x="146" y="354" fill="#99F6E4" font-size="54" font-weight="700">4.8%</text>
+    <text x="146" y="390" fill="#94A3B8" font-size="22">+0.7 pts · Healthy</text>
+    <text x="146" y="450" fill="#E2E8F0" font-size="22">Landing-page relevance improved,</text>
+    <text x="146" y="480" fill="#E2E8F0" font-size="22">but demo calendar inventory is tightening.</text>
+
+    <rect x="585" y="244" width="430" height="500" rx="28" fill="#171C2C"/>
+    <text x="621" y="294" fill="#FFFFFF" font-size="28" font-weight="700">Partner referrals</text>
+    <text x="621" y="354" fill="#99F6E4" font-size="54" font-weight="700">6.2%</text>
+    <text x="621" y="390" fill="#94A3B8" font-size="22">+1.2 pts · Watch</text>
+    <text x="621" y="450" fill="#E2E8F0" font-size="22">Lead quality is high; routing speed is</text>
+    <text x="621" y="480" fill="#E2E8F0" font-size="22">starting to bottleneck SAL handoff.</text>
+
+    <rect x="1060" y="244" width="430" height="500" rx="28" fill="#171C2C"/>
+    <text x="1096" y="294" fill="#FFFFFF" font-size="28" font-weight="700">Lifecycle nurture</text>
+    <text x="1096" y="354" fill="#F9A8D4" font-size="54" font-weight="700">3.1%</text>
+    <text x="1096" y="390" fill="#94A3B8" font-size="22">-0.9 pts · Critical</text>
+    <text x="1096" y="450" fill="#E2E8F0" font-size="22">Message fatigue and stale offers are</text>
+    <text x="1096" y="480" fill="#E2E8F0" font-size="22">suppressing high-intent return traffic.</text>
+  </g>
 </svg>

@@ -1,12 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
   <rect width="1600" height="900" fill="#0B0D15"/>
   <rect x="70" y="70" width="1460" height="760" rx="30" fill="#121726" stroke="#273248"/>
-  <text x="110" y="130" fill="#A5B4FC" font-family="Segoe UI, Arial" font-size="20">FUNNEL MAP</text>
-  <text x="110" y="182" fill="#FFFFFF" font-family="Georgia, serif" font-size="44">Progressive conversion loss by stage</text>
-  <rect x="132" y="242" width="1260" height="74" rx="37" fill="#F472B6" fill-opacity="0.22"/>
-  <rect x="220" y="334" width="1080" height="74" rx="37" fill="#E879F9" fill-opacity="0.22"/>
-  <rect x="300" y="426" width="920" height="74" rx="37" fill="#C084FC" fill-opacity="0.22"/>
-  <rect x="386" y="518" width="748" height="74" rx="37" fill="#60A5FA" fill-opacity="0.22"/>
-  <rect x="488" y="610" width="544" height="74" rx="37" fill="#2DD4BF" fill-opacity="0.22"/>
-  <rect x="622" y="702" width="276" height="74" rx="37" fill="#34D399" fill-opacity="0.22"/>
+  <text x="110" y="132" fill="#A5B4FC" font-family="Segoe UI, Arial" font-size="20">FUNNEL MAP</text>
+  <text x="110" y="186" fill="#FFFFFF" font-family="Georgia, serif" font-size="44">Progressive conversion loss by stage</text>
+
+  <g font-family="Segoe UI, Arial">
+    <rect x="132" y="242" width="1260" height="74" rx="37" fill="#F472B6" fill-opacity="0.28"/>
+    <text x="170" y="287" fill="#FFFFFF" font-size="24" font-weight="700">Qualified traffic</text>
+    <text x="1250" y="287" fill="#FFFFFF" font-size="24" font-weight="700">184K · 100%</text>
+
+    <rect x="220" y="336" width="1080" height="74" rx="37" fill="#E879F9" fill-opacity="0.28"/>
+    <text x="258" y="381" fill="#FFFFFF" font-size="24" font-weight="700">Product interest</text>
+    <text x="1160" y="381" fill="#FFFFFF" font-size="24" font-weight="700">69K · 37.5%</text>
+
+    <rect x="300" y="430" width="920" height="74" rx="37" fill="#C084FC" fill-opacity="0.28"/>
+    <text x="338" y="475" fill="#FFFFFF" font-size="24" font-weight="700">Lead capture</text>
+    <text x="1080" y="475" fill="#FFFFFF" font-size="24" font-weight="700">21.4K · 11.6%</text>
+
+    <rect x="386" y="524" width="748" height="74" rx="37" fill="#60A5FA" fill-opacity="0.28"/>
+    <text x="424" y="569" fill="#FFFFFF" font-size="24" font-weight="700">Sales accepted</text>
+    <text x="994" y="569" fill="#FFFFFF" font-size="24" font-weight="700">12.8K · 6.9%</text>
+
+    <rect x="488" y="618" width="544" height="74" rx="37" fill="#2DD4BF" fill-opacity="0.28"/>
+    <text x="526" y="663" fill="#FFFFFF" font-size="24" font-weight="700">Demo booked</text>
+    <text x="892" y="663" fill="#FFFFFF" font-size="24" font-weight="700">6.1K · 3.3%</text>
+
+    <rect x="622" y="712" width="276" height="74" rx="37" fill="#34D399" fill-opacity="0.28"/>
+    <text x="658" y="757" fill="#FFFFFF" font-size="24" font-weight="700">Opportunity</text>
+    <text x="772" y="757" fill="#FFFFFF" font-size="24" font-weight="700">2.2K · 1.2%</text>
+  </g>
 </svg>
