@@ -76,7 +76,7 @@ flowchart LR
 ## Local Run
 
 ```powershell
-Set-Location "C:\Users\chaus\dev\repos\conversion-funnel-intelligence-hub"
+cd conversion-funnel-intelligence-hub
 npm install
 npm test
 npm run build
